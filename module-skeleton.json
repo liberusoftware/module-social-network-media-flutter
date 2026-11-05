@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-media-flutter",
+  "capabilityKey": "liberusoftware/module-social-network-media",
+  "presentation": "mobile-flutter",
+  "package": "module_social_network_media_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/social-network/nextjs/media.md",
+  "presentationPlan": "projects/social-network/flutter/media.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
